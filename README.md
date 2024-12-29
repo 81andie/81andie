@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**81andie/81andie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**81andie/81andie** is a ✨ _speci!
+https://wallpapercrafter.com/desktop/11671-code-programming-symbols-strings-colorful-text-4k.jpg
+al_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
