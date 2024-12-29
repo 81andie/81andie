@@ -1,7 +1,5 @@
-![Generated_1693910185 (1)](https://github.com/user-attachments/assets/4c77781f-aca6-4a00-aba3-79b545df4952)
 
-
-<!--Hola!!! Soy Andrea Hernández, ## Hi there 👋!!
+--Hola!!! Soy Andrea Hernández, ## Hi there 👋!!
 
 Me alegro mucho que hayáis entrado en mi perfil, sed bienvenidos!
 
@@ -9,4 +7,4 @@ LLevo un año y medio adentrándome a en la programación web, y en ella he desc
 
 
 
--->
+
